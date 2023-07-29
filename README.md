@@ -69,4 +69,16 @@ As ações (actions) e as transformações (transformations) são dois tipos pri
 
 - **Ação:** As ações são operações que retornam um valor final ao programa ou que gravam dados em um armazenamento, as ações desencadeiam a execução de todas as transformações anteriores no RDD, uma vez que elas precisam trasformar os dados para obter o resultado, ponto onde a computação 'real' acontece, e isso é feito atráves do plano lógico que o Spark cria.  
 
+## Links
 
+[Site oficial do Apache Spark](https://spark.apache.org/)
+
+[SparkByExamples - Ótimo site para tutoriais](https://sparkbyexamples.com/)
+
+[Artigo do Medium, introdução ao Spark](https://medium.com/gabriel-luz/spark-101-introdu%C3%A7%C3%A3o-ao-framework-de-processamento-de-dados-distribu%C3%ADdos-1f959e596024)
+
+[Arquivos usados no Colab]()
+
+Para finalizar, gostaria de recomendar o livro Learning Spark da O'Reilly! E deixo meus agradecimentos por ter reservado um tempo e ter chegado até aqui! Bye-Bye!
+
+![](imagens/yodaBye.gif)
