@@ -77,7 +77,7 @@ As ações (actions) e as transformações (transformations) são dois tipos pri
 
 [Artigo do Medium, introdução ao Spark](https://medium.com/gabriel-luz/spark-101-introdu%C3%A7%C3%A3o-ao-framework-de-processamento-de-dados-distribu%C3%ADdos-1f959e596024)
 
-[Arquivos usados no Colab]()
+[Arquivos usados no Colab](https://drive.google.com/drive/folders/1-RiB0X7Kzpyik9Vt9ws7TSl1yGjFiLzh)
 
 Para finalizar, gostaria de recomendar o livro Learning Spark da O'Reilly! E deixo meus agradecimentos por ter reservado um tempo e ter chegado até aqui!
 
