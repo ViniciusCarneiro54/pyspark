@@ -79,6 +79,6 @@ As ações (actions) e as transformações (transformations) são dois tipos pri
 
 [Arquivos usados no Colab]()
 
-Para finalizar, gostaria de recomendar o livro Learning Spark da O'Reilly! E deixo meus agradecimentos por ter reservado um tempo e ter chegado até aqui! Bye-Bye!
+Para finalizar, gostaria de recomendar o livro Learning Spark da O'Reilly! E deixo meus agradecimentos por ter reservado um tempo e ter chegado até aqui!
 
 ![](imagens/yodaBye.gif)
