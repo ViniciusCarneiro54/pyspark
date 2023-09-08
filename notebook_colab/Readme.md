@@ -1,2 +1,2 @@
 # Link notebook
-Caso você prefira abrir o notebook no próprio Colab para visualizar o sumário, ao invés de abrir o arquivo .ipybn [Clique aqui](https://colab.research.google.com/drive/1HlMjF2FLyVND164jSwqHUS44okhHrTmy?usp=sharing).
+Caso você prefira abrir o notebook no próprio Colab, para visualizar o sumário ao invés de abrir o arquivo .ipybn [clique aqui](https://colab.research.google.com/drive/1HlMjF2FLyVND164jSwqHUS44okhHrTmy?usp=sharing).
